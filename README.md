@@ -1,4 +1,4 @@
-<h1 align="center">Real Time 3D ISS Tracking</h1>
+<h1 align="center">Astronaut's Eye View: 3D ISS Tracker</h1>
   <h3> </h3>
 
 </div>
@@ -18,3 +18,4 @@
 
 <br/>
 
+![Thumbnail](https://github.com/AndrewKim2807/Real-Time-ISS-Tracking/blob/main/Real%20Time%20ISS%20Locator.png)
