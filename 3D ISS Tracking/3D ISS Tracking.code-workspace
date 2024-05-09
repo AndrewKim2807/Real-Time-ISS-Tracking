@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/ISS-models-2011/ISS models 2011"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3D ISS Tracking"
+	}
+}
